@@ -3,7 +3,7 @@ Recuperar Dados Usuario Github
 
 Programa que recupera algumas das informações contidas na API se Usuários do GitHub, e exibindo estas informações numa pagina html.
 
-<imag src="https://github.com/teonett/Javascript-Recuperar-Dados-Usuario-Api-Github/blob/master/recuperar_info_user_github.png">
+<img src="https://github.com/teonett/Javascript-Recuperar-Dados-Usuario-Api-Github/blob/master/recuperar_info_user_github.png">
   
  <p>
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by
