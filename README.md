@@ -6,10 +6,11 @@ Programa que recupera algumas das informações contidas na API se Usuários do 
 E necessario executar os comando abaixo após clonar o repositorio
 <li>Baixar os componentes do node usando : npm install ou yarn </li>
 <li>Para executar basta digitar: npm dev ou yarn dev </li>
+
 <strong> Após executar o comando via terminal ou prompt de comando so acessar a pagina indicada 
   <li>  ｢wds｣: Project is running at http://localhost:8080/ </li>
 </strong>
-
+<hr>
 <img src="https://github.com/teonett/Javascript-Recuperar-Dados-Usuario-Api-Github/blob/master/recuperar_info_user_github.png">
   
  <p>
